@@ -1,6 +1,6 @@
 # Fireboy and Watergirl (Java Swing Implementation)
 
-A custom implementation of the classic **Fireboy and Watergirl** puzzle-platformer, built entirely with the `javax.swing` library. This project recreates the mechanics of the original game with multiple levels, cooperative character control, collectible diamonds, and enemies.
+A custom (2024) implementation of the classic **Fireboy and Watergirl** puzzle-platformer, built entirely with the `javax.swing` library. This project recreates the mechanics of the original game with multiple levels, cooperative character control, collectible diamonds, and enemies.
 
 <p align="center">
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3de4319a-cdee-4257-9b76-2c7a3f719c4f" />
